@@ -2,6 +2,7 @@ body {
     background-color: darkgreen;
     color: white;
 }
+<<<<<<< HEAD
 #ammI{
     display: block;
     margin: auto;
@@ -12,3 +13,57 @@ body {
     margin: 70px;
     text-align: center;
 }
+=======
+.amf_wfsg2022:hover{
+    border-radius:50%;
+    -webkit-border-radius:50%;
+    box-shadow: 0px 0px 15px 15px #ec741e00;
+    -webkit-box-shadow: 0px 0px 15px 15px #ec741e00;
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    transition: 1000ms;
+}
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+
+=======
+<<<<<<< HEAD
+#dr_imagenNas{
+    width: 50%;
+}
+=======
+.lc_prueba_temporal_imagen {
+    width: 40%;
+    height: 30%;
+    border-radius: 15px;
+}
+>>>>>>> 33df4aa2f3164068d932a32e25eab85a7c210792
+>>>>>>> 2a88b21066d2218dbe81b3fe0e5f72f89e8f3436
+=======
+.jp_caja1, .jp_caja2{
+    float: left;
+    display: inline;
+}
+.jp_caja2{
+    width: 70%;
+}
+#jp_nombre {
+    font-weight: bolder;
+}
+#jp_ciudad {
+    font-style: italic;
+}
+#jp_resumen {
+    font-size: 1.5em;
+}
+#jp_resumen, #jp_nombre, #jp_ciudad, #jp_edad{
+    font-family: monospace;
+}
+
+#dr_imagenNas{
+    width: 50%;
+}
+>>>>>>> 0f64cca5cc8588be9ae8c732a5b914f95fba030e
+>>>>>>> 2eabf7405f0917bb2ed4d52bc43d77ed214b00c7
