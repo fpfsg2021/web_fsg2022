@@ -3,14 +3,96 @@ body {
     color: white;
 }
 
-<<<<<<< HEAD
-#dr_imagenNas{
-    width: 50%;
+/* CSS DRUIZ */
+
+/* CONTENEDORES */
+
+#dr_div-presentacion{
+    width: 120%;
+    text-align: center;
+    background-color: rgba(250, 235, 215, 0.712);
 }
-=======
+/* DANIELRUIZGONZALEZ */
+#dr_DanielRuiz {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    color: black;
+    font-style: oblique;
+}
+/* /DANIELRUIZGONZALEZ */
+
+#dr_fotos-musica {
+    width: 70%;
+}
+#dr_fotos-fotos{
+    width: 70%;
+}
+/* /CONTENEDORES */
+
+
+/* IMAGENES */
+
+
+.dr_imgMu{
+    width: 20%;
+    
+    border-style:double;
+    border-radius: 20px;
+}
+
+.dr_imgFot{
+    width: 15%;
+
+    border-style:double;
+    border-radius: 20px;
+}
+
+#dr_imagen1{
+    width: 24%;
+    border-style:double;
+    border-radius: 20px;
+}
+
+#dr_imagen2{
+    width: 20%;
+    border-style:double;
+    border-radius: 20px;
+}
+
+/* /IMAGENES */
+
+/* ANIMACION-IMAGENES */
+#dr_fotoNas:hover,
+#dr_fotoFoyone:hover,
+#dr_fotoGal:hover,
+#dr_fotoKen:hover
+{
+    transform: scale(1.5);
+    max-width: 50%;
+    display: inline-block;
+}
+
+.dr_imgFot:hover,
+#dr_imagen1:hover,
+#dr_imagen2:hover {
+    transform: scale(1.5);
+    max-width: 50%;
+    display: inline-block;
+}
+
+/* /ANIMACION-IMAGENES */
+
+#dr_span-enproceso{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-size: x-small;
+    color: blue;
+}
+
+/* /CSS DRUIZ */
+
 .lc_prueba_temporal_imagen {
     width: 40%;
     height: 30%;
     border-radius: 15px;
 }
->>>>>>> 33df4aa2f3164068d932a32e25eab85a7c210792
