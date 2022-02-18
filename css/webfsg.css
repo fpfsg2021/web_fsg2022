@@ -11,6 +11,18 @@ body {
     font-family: 'Roboto Serif', sans-serif;
 }
 
+#ammI{
+    display: block;
+    margin: auto;
+    text-align: center;
+
+}
+#amm1{
+    margin: 70px;
+    text-align: center;
+}
+
+
 .lc_text_animation_colored {
     animation: color-change 4s infinite;
 }
@@ -81,4 +93,3 @@ body {
 #dr_imagenNas{
     width: 50%;
 }
-
