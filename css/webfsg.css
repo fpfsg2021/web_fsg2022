@@ -15,14 +15,17 @@ body {
 #ammI{
     display: block;
     margin: auto;
-    text-align: center;
-
+    border-radius: 15px;
 }
+
 #amm1{
-    margin: 70px;
+    margin: 40px;
     text-align: center;
 }
-
+.amm2{
+    color: brown;
+    
+}
 
 .lc_text_animation_colored {
     animation: color-change 4s infinite;
