@@ -3,6 +3,12 @@ body {
     color: white;
 }
 
+<<<<<<< HEAD
+
+.e.gimenez_nombre{
+    background-color: violet;
+    color: white;
+=======
 #lc_body {
     background-image: url(https://freefrontend.com/assets/img/css-background-patterns/css-pattern-with-css-blend-mode.png);
     background-size:cover;
@@ -96,4 +102,5 @@ body {
 
 #dr_imagenNas{
     width: 50%;
+>>>>>>> a8817816a0ab29b88497371fe1991691b041ae2e
 }
