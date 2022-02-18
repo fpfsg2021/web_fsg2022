@@ -2,4 +2,13 @@ body {
     background-color: darkgreen;
     color: white;
 }
+#ammI{
+    display: block;
+    margin: auto;
+    text-align: center;
 
+}
+#amm1{
+    margin: 70px;
+    text-align: center;
+}
