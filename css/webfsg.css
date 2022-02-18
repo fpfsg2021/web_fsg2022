@@ -2,17 +2,7 @@ body {
     background-color: darkgreen;
     color: white;
 }
-.amf_wfsg2022:hover{
-    border-radius:50%;
-    -webkit-border-radius:50%;
-    box-shadow: 0px 0px 15px 15px #ec741e00;
-    -webkit-box-shadow: 0px 0px 15px 15px #ec741e00;
-    transform: rotate(360deg);
-    -webkit-transform: rotate(360deg);
-    transition: 1000ms;
-}
 
-<<<<<<< HEAD
 #lc_body {
     background-image: url(https://freefrontend.com/assets/img/css-background-patterns/css-pattern-with-css-blend-mode.png);
     color: black;
@@ -33,32 +23,6 @@ body {
     100% { color: red; text-shadow: 1px 1px 2px rgb(255, 255, 255);}
   }
 
-=======
-.jp_caja1, .jp_caja2{
-    float: left;
-    display: inline;
-}
-.jp_caja2{
-    width: 70%;
-}
->>>>>>> e053a93921d36e9c555f67699b52746a7d2165bf
-#jp_nombre {
-    font-weight: bolder;
-}
-#jp_ciudad {
-    font-style: italic;
-}
-#jp_resumen {
-    font-size: 1.5em;
-}
-#jp_resumen, #jp_nombre, #jp_ciudad, #jp_edad{
-    font-family: monospace;
-}
-
-<<<<<<< HEAD
-#dr_imagenNas{
-    width: 50%;
-}
 .lc_prueba_temporal_imagen {
     width: 40%;
     height: 30%;
@@ -83,9 +47,4 @@ body {
         width: 40%;
         height: 30%;
     }
-
-=======
->>>>>>> e053a93921d36e9c555f67699b52746a7d2165bf
-#dr_imagenNas{
-    width: 50%;
 }
