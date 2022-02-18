@@ -3,8 +3,101 @@ body {
     color: white;
 }
 
+<<<<<<< HEAD
 
 .e.gimenez_nombre{
     background-color: violet;
     color: white;
+=======
+#lc_body {
+    background-image: url(https://freefrontend.com/assets/img/css-background-patterns/css-pattern-with-css-blend-mode.png);
+    background-size:cover;
+    color: black;
+    width: 80%;
+    padding: 5%;
+    font-family: 'Roboto Serif', sans-serif;
+}
+
+#ammI{
+    display: block;
+    margin: auto;
+    text-align: center;
+
+}
+#amm1{
+    margin: 70px;
+    text-align: center;
+}
+
+
+.lc_text_animation_colored {
+    animation: color-change 4s infinite;
+}
+
+@keyframes color-change {
+    0% { color: red; text-shadow: 1px 1px 2px rgb(255, 255, 255);}
+    25% { color: rgb(255, 217, 0); text-shadow: 1px 1px 2px black;}
+    50% { color: blue; text-shadow: 1px 1px 2px rgb(255, 255, 255);}
+    75% { color: rgb(9, 255, 0); text-shadow: 1px 1px 2px black;}
+    100% { color: red; text-shadow: 1px 1px 2px rgb(255, 255, 255);}
+  }
+
+.lc_prueba_temporal_imagen {
+    width: 40%;
+    height: 30%;
+    border-radius: 15px;
+    margin: auto;
+}
+
+.lc_text_animation_resize_image {
+    animation: size-change 4s infinite;
+}
+
+@keyframes size-change {
+    0% { 
+        width: 40%;
+        height: 30%;
+    }
+    50% {
+        width: 30%;
+        height: 20%;
+    }
+    100% { 
+        width: 40%;
+        height: 30%;
+    }
+}
+
+#dr_imagenNas{
+    width: 50%;
+}
+.lc_prueba_temporal_imagen {
+    width: 40%;
+    height: 30%;
+    border-radius: 15px;
+}
+
+.jp_caja1, .jp_caja2{
+    float: left;
+    display: inline;
+}
+.jp_caja2{
+    width: 70%;
+}
+#jp_nombre {
+    font-weight: bolder;
+}
+#jp_ciudad {
+    font-style: italic;
+}
+#jp_resumen {
+    font-size: 1.5em;
+}
+#jp_resumen, #jp_nombre, #jp_ciudad, #jp_edad{
+    font-family: monospace;
+}
+
+#dr_imagenNas{
+    width: 50%;
+>>>>>>> a8817816a0ab29b88497371fe1991691b041ae2e
 }
