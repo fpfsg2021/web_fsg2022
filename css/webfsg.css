@@ -3,6 +3,7 @@ body {
     color: white;
 }
 
+<<<<<<< HEAD
 #jp_nombre {
     font-weight: bolder;
 }
@@ -12,3 +13,16 @@ body {
 #jp_resumen, #jp_nombre, #jp_ciudad, #jp_edad{
     font-family: monospace;
 }
+=======
+<<<<<<< HEAD
+#dr_imagenNas{
+    width: 50%;
+}
+=======
+.lc_prueba_temporal_imagen {
+    width: 40%;
+    height: 30%;
+    border-radius: 15px;
+}
+>>>>>>> 33df4aa2f3164068d932a32e25eab85a7c210792
+>>>>>>> a1805f643999d386976e0c131118c8f978b7f079
