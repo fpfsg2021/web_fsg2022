@@ -11,7 +11,6 @@ body {
     font-family: 'Roboto Serif', sans-serif;
 }
 
-<<<<<<< HEAD
 .lc_text_animation_colored {
     animation: color-change 4s infinite;
 }
@@ -49,25 +48,16 @@ body {
         height: 30%;
     }
 }
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-
-=======
-<<<<<<< HEAD
 #dr_imagenNas{
     width: 50%;
 }
-=======
 .lc_prueba_temporal_imagen {
     width: 40%;
     height: 30%;
     border-radius: 15px;
 }
->>>>>>> 33df4aa2f3164068d932a32e25eab85a7c210792
->>>>>>> 2a88b21066d2218dbe81b3fe0e5f72f89e8f3436
-=======
+
 .jp_caja1, .jp_caja2{
     float: left;
     display: inline;
@@ -91,5 +81,4 @@ body {
 #dr_imagenNas{
     width: 50%;
 }
->>>>>>> 0f64cca5cc8588be9ae8c732a5b914f95fba030e
->>>>>>> refs/remotes/origin/main
+
