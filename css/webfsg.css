@@ -5,8 +5,9 @@ body {
 
 #lc_body {
     background-image: url(https://freefrontend.com/assets/img/css-background-patterns/css-pattern-with-css-blend-mode.png);
+    background-size:cover;
     color: black;
-    width: 90%;
+    width: 80%;
     padding: 5%;
     font-family: 'Roboto Serif', sans-serif;
 }
